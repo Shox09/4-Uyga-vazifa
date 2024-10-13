@@ -1,0 +1,198 @@
+body{
+    background-color: dimgrey;
+}
+.flex-container0{
+    display: flex;
+    gap: 60px;
+    padding:20px;
+    flex-wrap: wrap;
+    margin-left: 100px;
+}
+.flex-container{
+    background-color: purple;
+    display: flex;
+    width: 15%;
+    padding: 20px;
+    height: 180px;
+    border-radius: 10px;
+    gap: 10px;
+}
+.flex-container1{
+    background-color: purple;
+    width: 15%;
+    padding: 20px;
+    height: 180px;
+    border-radius: 10px;
+}
+.flex-container2{
+    background-color: purple;
+    display: flex;
+    width: 15%;
+    padding: 20px;
+    height: 180px;
+    border-radius: 10px;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+.flex-container3{
+    background-color: purple;
+    display: flex;
+    width: 15%;
+    padding: 20px;
+    height: 180px;
+    border-radius: 10px;
+    justify-content: space-between;
+}
+.flex-container4{
+    background-color: purple;
+    display: flex;
+    width: 15%;
+    padding: 20px;
+    height: 180px;
+    border-radius: 10px;
+    justify-content: start;
+    gap: 10px;
+}
+.flex-container5{
+    background-color: purple;
+    display: flex;
+    width: 15%;
+    padding: 20px;
+    height: 180px;
+    border-radius: 10px;
+    gap: 10px;
+    justify-content: end;
+
+}
+.flex-container6{
+    background-color: purple;
+    display: flex;
+    width: 15%;
+    padding: 20px;
+    height: 180px;
+    border-radius: 10px;
+    gap: 10px;
+}
+.flex-container7{
+    background-color: purple;
+    display: flex;
+    width: 15%;
+    padding: 20px;
+    height: 180px;
+    border-radius: 10px;
+    gap: 10px;
+    justify-content: space-around;
+}
+.flex-container8{
+    background-color: purple;
+    display: flex;
+    width: 15%;
+    padding: 20px;
+    height: 180px;
+    border-radius: 10px;
+    gap:10px;
+    justify-content: space-evenly;
+}
+.flex-container9{
+    background-color: purple;
+    display: flex;
+    width: 15%;
+    padding: 20px;
+    height: 180px;
+    border-radius: 10px;
+    gap: 10px;
+}
+.flex-container10{
+    background-color: purple;
+    display: flex;
+    width: 15%;
+    padding: 20px;
+    height: 180px;
+    border-radius: 10px;
+    gap: 10px;
+}
+.flex-container11{
+    background-color: purple;
+    display: flex;
+    width: 15%;
+    padding: 20px;
+    height: 180px;
+    border-radius: 10px;
+    justify-content: space-evenly;
+}
+
+.a{
+    width: 50px;
+    background-color: orange;
+    height: 50px;
+    border-radius: 10px;
+}
+.b{
+    width: 50px;
+    background-color: orange;
+    height: 50px;
+    border-radius: 10px;
+}
+.c{
+    width: 50px;
+    background-color: orange;
+    height: 50px;
+    border-radius: 10px;
+}
+.d{
+    width: 50px;
+    background-color: orange;
+    height: 50px;
+    border-radius: 10px;
+}
+.e{
+    width: 50px;
+    background-color: orange;
+    height: 50px;
+    border-radius: 10px;
+}
+.f{
+    width: 50px;
+    background-color: orange;
+    height: 50px;
+    border-radius: 10px;
+}
+.g{
+    width: 50px;
+    background-color: orange;
+    height: 50px;
+    border-radius: 10px;
+}
+.h{
+    width: 50px;
+    background-color: orange;
+    height: 50px;
+    border-radius: 10px;
+}
+.i{
+    width: 50px;
+    background-color: orange;
+    height: 50px;
+    border-radius: 10px;
+    
+}
+.j{
+    width: 50px;
+    background-color: orange;
+    height: 50px;
+    border-radius: 10px;
+    margin-top: 140px;
+}
+.k{
+    width: 50px;
+    background-color: orange;
+    height: 50px;
+    border-radius: 10px;
+    margin-top: 70px;
+}
+.l{
+    width: 50px;
+    background-color: orange;
+    height: 50px;
+    border-radius: 10px;
+}
